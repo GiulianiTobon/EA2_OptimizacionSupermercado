@@ -1,0 +1,7 @@
+com\EA2\optimizacion_supermercado\models\Cajera.class
+com\EA2\optimizacion_supermercado\EA2_Optimizacion_Supermercado.class
+com\EA2\optimizacion_supermercado\models\CajaRegistradora.class
+com\EA2\optimizacion_supermercado\models\Carrito.class
+com\EA2\optimizacion_supermercado\models\Cliente.class
+com\EA2\optimizacion_supermercado\models\Producto.class
+com\EA2\optimizacion_supermercado\models\Supermercado.class
